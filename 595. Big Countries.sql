@@ -17,7 +17,6 @@ A country is big if:
 
 Write a solution to find the name, population, and area of the big countries.
 Return the result table in any order.
-The result format is in the following example.
 
 solution:
 
